@@ -1,0 +1,15 @@
+#nav-items{
+    background-color: blue;
+    padding: 8px;
+    font-family: 'Raleway';
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    width: 70%;
+    float: right;
+    margin: 10px 10px;
+    border-radius: 5px;
+}
+.Navigator{
+    flex: 1;
+}
