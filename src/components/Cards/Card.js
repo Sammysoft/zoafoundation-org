@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import CardItem from './Card/CardItem';
+import './index.css';
 
 export default class Card extends Component {
     state = {
@@ -29,7 +30,7 @@ export default class Card extends Component {
     render() {
         const { CardInfo } = this.state;
         return (
-            <section style={{display: 'flex', justifyContent: 'space-between', backgroundColor: 'white'}}>
+            <section className="cardItem" style={{display: 'flex', fontSize: '0.6rem'}}>
              {CardInfo.map(CardInfo =>{
                 return(
                   

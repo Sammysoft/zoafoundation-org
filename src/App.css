@@ -3,4 +3,12 @@
 
 body{
   font-family: 'Raleway';
+  /* font-size: 0.4rem; */
+}
+
+
+@media screen and (max-width: 500px){
+  body{
+    font-size: 0.5rem;
+  }
 }

@@ -1,22 +1,19 @@
 import React, { Component } from 'react';
+import './card.css';
 
 
 class Card extends Component {
     render(){
 
         return(
-            <div data-aos="slide-up" data-aos-duration="600" style={{backgroundColor: 'yellow', 
-                        padding: '10px', width: "30%",
-                        borderRadius: '10px', margin: '30px 10px',
-                        flex: '1', boxShadow: '10px 7px 7px 7px #88888888',
-                        height: 'auto'}}>
-                <div style={{textAlign: 'center',
+            <div className="cards" style={{backgroundColor: 'yellow', margin: '30px 10px'}}>
+                <div className="card-head" style={{textAlign: 'center',
                             fontSize: '2.5rem'}}>
 
                         {this.props.CardInfo.CardHeader}
 
                 </div>
-                <div style={{fontSize: '1rem', padding: '10px'
+                <div className="card-body" style={{fontSize: '1rem', padding: '10px'
                             }}>
 
                         {this.props.CardInfo.CardBody}

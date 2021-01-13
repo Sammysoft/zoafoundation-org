@@ -1,8 +1,9 @@
 import React from 'react';
+import './Footer.css';
 
 export default function footer() {
     return (
-        <div style={{display: 'flex', padding:'10px', backgroundColor: 'black', justifyContent: 'space-between'}}>
+        <div className={"Foot-Wrapper"} style={{display: 'flex', backgroundColor: 'black', fontSize: '1rem'}}>
             <div style={{flex: 1, padding: '8px', color: 'white', borderRightColor: 'white', borderRightWidth: '2px' }}>
                 <p>You can follow us on each of these social handles</p>
                 <span><i className={'fa fa-facebook'}></i> Facebook @www.facebook.com/zoafoundation/</span><br/>
