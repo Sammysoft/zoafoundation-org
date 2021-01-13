@@ -1,7 +1,8 @@
 #nav-items{
     background-color: blue;
     padding: 8px;
-    font-family: 'Raleway';
+    font-family: 'Tangerine';
+    font-weight: bolder;
     font-size: 2rem;
     color: white;
     text-align: center;
@@ -23,13 +24,15 @@
     #nav-items{
         background-color: blue;
         padding: 8px;
-        font-family: 'Raleway';
-        font-size: 0.9rem;
+        font-family: 'Tangerine';
+        font-weight: bolder;
+        font-size: 1.5rem;
         color: white;
+        width: 50%;
         text-align: center;
-        width: auto;
+        padding: 10px;
         float: center;
-        margin: auto;
+        margin: 1vh;
         border-radius: 5px;
     }
 }

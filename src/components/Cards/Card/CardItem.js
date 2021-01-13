@@ -6,7 +6,7 @@ class Card extends Component {
     render(){
 
         return(
-            <div className="cards" style={{backgroundColor: 'yellow', margin: '30px 10px'}}>
+            <div className="cards bg-warning" style={{ margin: '30px 10px', borderRadius: '10px'}}>
                 <div className="card-head" style={{textAlign: 'center',
                             fontSize: '2.5rem'}}>
 
