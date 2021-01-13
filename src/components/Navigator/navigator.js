@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './navigator.css';
-
+/* eslint-disable */
 Navigator = () =>{
     return (
     <div data-aos="slide-left" data-aos-duration="600" className={"Navigator"}>
