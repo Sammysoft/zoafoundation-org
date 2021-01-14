@@ -7,7 +7,7 @@ Navigator = () =>{
     <div className={"Navigator"}>
         <Link to="/Home"><span id={"nav-items"}> Home</span></Link> <br/> 
         <Link to="/About"><span id={"nav-items"}>About</span></Link> <br/>
-        <span id={"nav-items"}>Contact</span><br/>
+        <Link to='/Contact'><span id={"nav-items"}>Contact</span></Link><br/>
         <span id={"nav-items"}>Join</span><br/>
     </div>
     )

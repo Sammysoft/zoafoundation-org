@@ -1,6 +1,6 @@
 import React from 'react';
-
-import Navigator from '../Navigator/navigator';
+import NaverContact from '../../NaverContact';
+import Navigator from '../../Navigator/navigator';
 
 export default function Header() {
     return (
@@ -15,10 +15,10 @@ export default function Header() {
                 <div className={"head-info"}>
                     <div className={"nav-indicator"}>
                         <p className={"paragraph"}>
-                            Welcome To <br/> <span className={"text-Z"}>Z</span><span className={"text-O"}>O</span><span className={"text-A"}>A</span> Foundation
+                           <NaverContact />
                         </p>
                         <span className={"para-indicator"}>
-                            ZOA <i className={'fa fa-caret-right'}></i> Home
+                            ZOA <i className={'fa fa-caret-right'}></i> Contact
                         </span>
                        
                     </div>

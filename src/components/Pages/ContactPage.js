@@ -1,9 +1,9 @@
 import React from 'react';
-import Header from '../Header/ForAbout/Header';
+import Header from '../Header/ForContact/Header';
 import Nav from '../Nav/Nav';
 
 
-export default function AboutPage() {
+export default function ContactPage() {
     return (
        <div>
             <Nav />
