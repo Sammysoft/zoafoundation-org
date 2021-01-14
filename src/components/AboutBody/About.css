@@ -48,7 +48,7 @@
 }
 
 .info-card{
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./Body.jpg');
+  /*   background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./About.jpg'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 100%;
@@ -57,7 +57,7 @@
     height: 70vh;
     box-shadow: 18px 10px 18px 10px rgb(187, 182, 182);
     margin-top: 30px;
-}
+} 
 
 .head-info{
     flex: 2;
@@ -77,13 +77,13 @@
         float: center;
     }
     .info-card{
-        background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./Body.jpg');
+        /* background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./About.jpg'); */
         background-size: cover;
         background-repeat: no-repeat;
         background-position: cover;
         display: flex;
         flex-direction: column;
-        /* justify-content: space-evenly; */
+         justify-content: space-evenly; 
         height: 70vh;
         box-shadow: 18px 10px 18px 10px rgb(187, 182, 182);
         margin-top: 30px;

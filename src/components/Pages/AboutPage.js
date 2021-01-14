@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../Header/ForAbout/Header';
+import Body from '../AboutBody/About';
 import Nav from '../Nav/Nav';
 
 
@@ -8,7 +8,7 @@ export default function AboutPage() {
        <div>
             <Nav />
             <div className="container">
-            <Header />
+            <Body />
         </div>
        </div>
     )

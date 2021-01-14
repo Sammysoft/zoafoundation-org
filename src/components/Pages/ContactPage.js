@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../Header/ForContact/Header';
+import Body from '../ContactBody/Contact';
 import Nav from '../Nav/Nav';
 
 
@@ -8,7 +8,7 @@ export default function ContactPage() {
        <div>
             <Nav />
             <div className="container">
-            <Header />
+            <Body />
         </div>
        </div>
     )

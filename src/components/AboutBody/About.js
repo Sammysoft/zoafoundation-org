@@ -1,6 +1,6 @@
 import React from 'react';
-import './Body.css';
-import Header from '../../Header/ForContact/Header';
+import './About.css';
+import Header from '../Header/ForAbout/Header';
 
 
 
@@ -8,7 +8,7 @@ function Body(){
     return(
         <div className={'container'}>
             <Header />
-           
+            
             
         </div>
     )

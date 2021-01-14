@@ -1,8 +1,8 @@
 import React from 'react';
-import './Body.css';
-import Header from '../../Header/ForHome/Header';
-import Cards from '../../Cards/Card';
-import Section from '../../Section/Section';
+import './Home.css';
+import Header from '../Header/ForHome/Header';
+import Cards from '../Cards/Card';
+import Section from '../Section/Section';
 
 
 function Body(){
