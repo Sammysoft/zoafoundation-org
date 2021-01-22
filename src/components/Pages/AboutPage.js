@@ -8,9 +8,9 @@ export default function AboutPage() {
     return (
        <div>
             <Nav />
-            <div className="container">
+            
             <Body />
-        </div>
+       
         <Footer />
        </div>
     )
