@@ -1,0 +1,30 @@
+.card-wrapper{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 5vh;
+}
+
+.card-items{
+    background-color: white;
+    height: 50vh;
+    width: auto;
+    padding: 10px;
+    flex: 1;
+    margin: 10px;
+    box-shadow: '8px 10px 18px #88888888';
+}
+.fa{
+    color: grey;
+}
+
+
+@media screen and (max-width: 500px){
+    .card-wrapper{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        margin: 5vh;
+        flex-direction: column;
+    }
+}
