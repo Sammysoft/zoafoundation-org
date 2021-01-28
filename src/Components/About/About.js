@@ -26,8 +26,8 @@ export default function About() {
                                         or region as we want to affect the lives of all persons that needs one assistance or another.<br/><br/>
                                 </p>
                                 <ul>
-                                <li><i className="ri-check-double-line"></i> We are happy that we could put a smile on the faces of the poeple we affect</li>
-                                <li><i className="ri-check-double-line"></i> We accept donations from philantropists across the Nation who are moved to  assist us in changing the life of people who are in the pain of need.</li>
+                                <li><i className="ri-check-double-line"></i> We are happy that we are able to put smiles on the faces of the poeple we affect</li>
+                                <li><i className="ri-check-double-line"></i> We accept donations from philantropists across the Nation who are moved to assist us in changing the life of people who are in the pain of need.</li>
                                 <li><i className="ri-check-double-line"></i> Every of the assistance we offer is solely to make the life of others better, and that is the sole reason of our existence as humans... Join Us today and be a part of this Crusade!</li>
                                 </ul>
                             </div>

@@ -5,15 +5,17 @@ export default function main() {
         <div>
                  <section id="hero" className="d-flex align-items-center">
                         <div className="container position-relative" data-aos="fade-up" data-aos-delay="100">
-                                <div className="row justify-content-center">
+                              <div className="background-wrap">
+                              <div className="row justify-content-center">
                                     <div className="col-xl-7 col-lg-9 text-center">
                                     <h1>Welcome To Zoa Foundation</h1>
-                                    <h2>We are a team of humanitarians</h2>
+                                    <h2 style={{Color: 'white'}}>We are a team of humanitarians</h2>
                                     </div>
                                 </div>
                                 <div className="text-center">
                                     <a href="#about" className="btn-get-started scrollto">Become a Member</a>
                                 </div>
+                              </div>
 
                                 <div className="row icon-boxes">
                                     <div className="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">

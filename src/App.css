@@ -407,6 +407,11 @@ body {
     background-size: cover;
     position: relative;
   }
+  .background-wrap{
+      background-image:  url('https://media.gettyimages.com/photos/girl-receives-a-red-balloon-while-lying-in-a-hospital-bed-picture-id1054016612?k=6&m=1054016612&s=612x612&w=0&h=rurAeldXFMQZbGxURFelfpY6cflCh8APZwqKa-0kH2Y=');
+      background-size: cover;
+      padding: 60px 10px;
+    }
   
   #hero:before {
     content: "";

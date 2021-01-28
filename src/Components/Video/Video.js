@@ -14,7 +14,7 @@ export default function Video() {
                             </div>
 
                             <div className="col-lg-6 pt-3 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-                                <h3>ZOA Foundation 2021/2022 Outreach </h3>
+                                <h3>ZOA Foundation 2020/2021 Outreach </h3>
                                 <p className="font-italic">
                                 Ibadan Motherless Baby Home, Omolewa Area, Ibadan, Oyo State Nigeria.
                                 </p>
@@ -22,7 +22,8 @@ export default function Video() {
                                 <li><i className="bx bx-check-double"></i> Donated a Standing fan</li>
                                 <li><i className="bx bx-check-double"></i> Donated Electric Kettle</li>
                                 <li><i className="bx bx-check-double"></i> Donated a carton of noodles</li>
-                                <li><i className="bx bx-check-double"></i> Donated 8 tins of Lan milk</li>
+                                <li><i className="bx bx-check-double"></i> Donated Rechargeable Lamps</li>
+                                <li><i className="bx bx-check-double"></i> Donated numerous tins of Powdered milk</li>
                                 </ul>
                                 <p>
                                 Donations were made during the outing to the motherless baby home at ibadan, we happy as all the gifts were 
