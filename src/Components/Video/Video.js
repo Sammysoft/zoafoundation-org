@@ -26,7 +26,7 @@ export default function Video() {
                                 <li><i className="bx bx-check-double"></i> Donated numerous tins of Powdered milk</li>
                                 </ul>
                                 <p>
-                                Donations were made during the outing to the motherless baby home at ibadan, we happy as all the gifts were 
+                                Donations were made during the outing to the <i>motherless baby home at ibadan</i>, we are happy as all the gifts were 
                                 recieved with happiness and merriment.<br/>
                                 You can also be a part of this crusade to help those in Need. Remember "God loves a cheerful giver...""
                                 </p>

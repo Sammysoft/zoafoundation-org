@@ -7,7 +7,7 @@ export default function index() {
   
           <div class="section-title">
             <h2>Testimonials</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>Hear what our Sponsors has to say... Together with the people we affected positively, the dream is becoming a reality.</p>
           </div>
   
           <div class="owl-carousel testimonials-carousel">

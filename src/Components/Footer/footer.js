@@ -65,13 +65,13 @@ export default function footer() {
                             </div>
                             <div className="credits">
                             
-                            Designed by <a href="https://bootstrapmade.com/">Dare-Owonibi Samuel (Software Developer)</a>
+                            Designed by <a href="https://www.github.com/Sammysoft">Dare-Owonibi Samuel (Software Developer)</a>
                             </div>
                         </div>
                         <div className="social-links text-center text-md-right pt-3 pt-md-0">
-                            <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
-                            <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>
-                            <a href="#" className="instagram"><i className="bx bxl-instagram"></i></a>
+                            <a href="https://www.twitter.com/zoafoundation/" className="twitter"><i className="bx bxl-twitter"></i></a>
+                            <a href="https://www.facebook.com/zoafoundation/" className="facebook"><i className="bx bxl-facebook"></i></a>
+                            <a href="https://www.instagram.com/zoafoundation/" className="instagram"><i className="bx bxl-instagram"></i></a>
                             <a href="#" className="google-plus"><i className="bx bxl-skype"></i></a>
                             <a href="#" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                         </div>

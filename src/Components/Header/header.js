@@ -15,24 +15,20 @@ export default function header() {
               <li className="active"><a href="index.html">Home</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#services">Services</a></li>
-              <li><a href="#portfolio">Portfolio</a></li>
+              <li><a href="#portfolio">Activities</a></li>
               <li><a href="#team">Team</a></li>
-              <li><a href="#pricing">Pricing</a></li>
-              <li className="drop-down"><a href="">Drop Down</a>
+              <li className="drop-down"><a href="">Categories</a>
                 <ul>
-                  <li><a href="#">Drop Down 1</a></li>
-                  <li className="drop-down"><a href="#">Deep Drop Down</a>
+                  <li><a href="#">Administration</a></li>
+                  <li className="drop-down"><a href="#">Accounts</a>
                     <ul>
-                      <li><a href="#">Deep Drop Down 1</a></li>
-                      <li><a href="#">Deep Drop Down 2</a></li>
-                      <li><a href="#">Deep Drop Down 3</a></li>
-                      <li><a href="#">Deep Drop Down 4</a></li>
-                      <li><a href="#">Deep Drop Down 5</a></li>
+                      <li><a href="#">Sign In</a></li>
+                      <li><a href="#">Sign Up</a></li> 
                     </ul>
                   </li>
-                  <li><a href="#">Drop Down 2</a></li>
-                  <li><a href="#">Drop Down 3</a></li>
-                  <li><a href="#">Drop Down 4</a></li>
+                  <li><a href="#">Outreaches</a></li>
+                  <li><a href="#">Networks</a></li>
+                  <li><a href="#">Join Us</a></li>
                 </ul>
               </li>
               <li><a href="#contact">Contact</a></li>
