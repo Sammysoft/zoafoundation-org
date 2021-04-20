@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from '../Header/header'
 import Main from '../Main/main';
 import About from '../About/About';
 import Count from '../Counts/count';
@@ -10,6 +11,7 @@ import Footer from '../Footer/footer';
 export default function body() {
     return (
         <div>
+            <Header />
             <Main />
             <About />
             <Count />
