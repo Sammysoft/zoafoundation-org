@@ -14,7 +14,7 @@ function Profile(props) {
                     <div class="row">
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person1.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Olajuwon.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className={"bx bxl-facebook"}></i></li>
@@ -27,14 +27,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Mike Miller</h1>
-                            <h2>Co-founder/ Operations</h2>
+                            <h1>Arijeloye Olakitan zacchaeus</h1>
+                            <h2>Founder</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Arijeloye Olakitan the founder of zoa foundation initiatives hails from ondo state, born on the 10th of May, 1999 with a BSc degree in Statistics.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person2.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Alofe_oluwatoba.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -47,14 +47,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Angelina Smithson</h1>
-                            <h2>Co-founder/ Projects</h2>
+                            <h1>Alofe Oluwatoba Andrew</h1>
+                            <h2>Coordinator</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify"></p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person3.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Awolegon_Rachael.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -67,14 +67,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Mike Miller</h1>
-                            <h2>Co-founder/ Marketing</h2>
+                            <h1>Awolegan Rachael Oluwatobiloba</h1>
+                            <h2>pioneer member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Miss Rachael Awolegan is a pioneer member of this great foundation, she is a fashion designer from ondo state, graduated from the university with a degree in Environmental health technology, born on the 10th of May 1996.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person4.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Akinyemi_Henry.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -87,14 +87,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Angelina Smithson</h1>
-                            <h2>Designer</h2>
+                            <h1>Akinyemi Henry Olamide</h1>
+                            <h2>pioneer member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Master Akinyemi Henry is a self employed citizen of Ekiti state with a degree in Business Education</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person5.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Olakitan_silifat.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -107,14 +107,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Dave Johnson</h1>
-                            <h2>Web Developer</h2>
+                            <h1>Ayodele Olakiitan Silifat</h1>
+                            <h2>Pioneer member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Olakiitan Silifat hails from Ekiti state, born on the 12th of June 1993</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person6.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Uthman_kolawole.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -127,14 +127,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Dave Johnson</h1>
-                            <h2>Fullstack Developer</h2>
+                            <h1>Uthman Kolawole Bashir</h1>
+                            <h2>Pioneer Member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Uthman KOlawole Bashir is from Osun state with a BSc degree in Biochemistry, born on the 19th of June.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person1.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Ibitanmi_Samson.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -147,14 +147,14 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Mike Miller</h1>
-                            <h2>Co-founder/ Operations</h2>
+                            <h1>Ibitanmi Samson</h1>
+                            <h2>Pioneer Member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Ibitanmi Samson is a Geotechnologist, hails from Ekiti State, CEO of Active Group of schools, born on the 9th of june 1992.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
-                                <img class="img-responsive" alt="Responsive Team Profiles" src="http://www.prepbootstrap.com/Content/images/template/people/person2.jpg" />
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Adeyanju_Iyanu.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
                                         <li><i className="bx bxl-facebook"></i></li>
@@ -167,10 +167,10 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Angelina Smithson</h1>
-                            <h2>Co-founder/ Projects</h2>
+                            <h1>Adeyanju Adedayo Iyanu</h1>
+                            <h2>Pioneer Member</h2>
                             <hr />
-                            <p class="text-justify">The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+                            <p class="text-justify">Adeyanju Iyanu is a citizen of Ekiti State, born on the 21st october he is self employed, and a statician. </p>
                         </div>
                     </div>
                 </div>
