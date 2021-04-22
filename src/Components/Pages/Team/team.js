@@ -50,7 +50,7 @@ function Profile(props) {
                             <h1>Alofe Oluwatoba Andrew</h1>
                             <h2>Coordinator</h2>
                             <hr />
-                            <p class="text-justify"></p>
+                            <p class="text-justify">Alofe Oluwatoba Andrew is the coordinator of this great foundation, with great passion and industriious efforts towards the operational efficacy of this organization</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
