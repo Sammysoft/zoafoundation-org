@@ -30,7 +30,7 @@ function Profile(props) {
                             <h1>Arijeloye Olakitan zacchaeus</h1>
                             <h2>Founder</h2>
                             <hr />
-                            <p class="text-justify">Arijeloye Olakitan the founder of zoa foundation initiatives hails from ondo state, born on the 10th of May, 1999 with a BSc degree in Statistics.</p>
+                            <p class="text-justify">Arijeloye Olakitan the founder of zoa foundation initiatives hails from Ibuji ondo state, born on the 10th of May, 1993 with a BSc degree in Statistics.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
