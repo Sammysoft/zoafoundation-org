@@ -30,7 +30,7 @@ function Profile(props) {
                             <h1>Arijeloye Olakitan zacchaeus</h1>
                             <h2><b>Founder</b></h2>
                             <hr />
-                            <p class="text-justify">Arijeloye Olakitan the founder of zoa foundation initiatives hails from Ibuji ondo state, born on the 10th of May, 1993 with a BSc degree in Statistics.</p>
+                            <p class="text-justify">Arijeloye Olakitan the founder of zoa foundation initiatives hails from Ibuji ondo state, born on the 10th of May, with a BSc degree in Statistics.</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
@@ -90,7 +90,7 @@ function Profile(props) {
                             <h1>Awolegan Rachael Oluwatobiloba</h1>
                             <h2><b>Pioneer Member</b></h2>
                             <hr />
-                            <p class="text-justify">Miss Rachael Awolegan is a pioneer member of this great foundation, she is a fashion designer from ondo state, graduated from the university with a degree in Environmental health technology, born on the 10th of May 1996.</p>
+                            <p class="text-justify">Miss Rachael Awolegan is a pioneer member of this great foundation, she is a fashion designer from ondo state, graduated from the university with a degree in Environmental health technology, born on the 10th of March.</p>
                         </div>
                        
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
