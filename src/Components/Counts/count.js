@@ -10,14 +10,14 @@ export default function count() {
 
           <div className="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
-              <span data-toggle="counter-up">65</span>
+              <span data-toggle="counter-up">455</span>
               <p>Happy Children</p>
             </div>
           </div>
 
           <div className="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div className="count-box">
-              <span data-toggle="counter-up">1</span>
+              <span data-toggle="counter-up">2</span>
               <p>Projects Reach Outs</p>
             </div>
           </div>
@@ -31,7 +31,7 @@ export default function count() {
 
           <div className="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
-              <span data-toggle="counter-up">15</span>
+              <span data-toggle="counter-up">78</span>
               <p>Awards/ Donations</p>
             </div>
           </div>
