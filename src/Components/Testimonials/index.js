@@ -18,7 +18,7 @@ export default function index() {
                 Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 <i class="bx bxs-quote-alt-right quote-icon-right"></i>
               </p>
-              <img src='https://media.gettyimages.com/photos/girl-receives-a-red-balloon-while-lying-in-a-hospital-bed-picture-id1054016612?k=6&m=1054016612&s=612x612&w=0&h=rurAeldXFMQZbGxURFelfpY6cflCh8APZwqKa-0kH2Y=' class="testimonial-img" alt="" />
+              <img src='assets/img/team/Olakitan_silifat.jpeg' class="testimonial-img" alt="" />
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
             </div>
