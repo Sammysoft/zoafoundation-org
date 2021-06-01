@@ -111,7 +111,7 @@ function Profile(props) {
                             <h1>Ibisanmi Samson</h1>
                             <h2><b>Pioneer Member</b></h2>
                             <hr />
-                            <p class="text-justify">Ibisanmi Samson is a Geotechnologist, hails from Ekiti State, CEO of Active Group of schools, born on the 9th of june</p>
+                            <p class="text-justify">Ibisanmi Samson is a Geotechnologist, hails from Ekiti State, CEO of Active Group of schools, born on the 9th of June</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
@@ -168,7 +168,7 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Uthman Kolawole Bashiru</h1>
+                            <h1>Uthman Kolawole Bashir</h1>
                             <h2><b>Member</b></h2>
                             <hr />
                             <p class="text-justify">Uthman Kolawole Bashiru is from Osun state with a BSc degree in Biochemistry, born on the 19th of June.</p>
