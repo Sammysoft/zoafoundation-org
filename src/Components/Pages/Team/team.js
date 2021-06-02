@@ -273,7 +273,26 @@ function Profile(props) {
                             <hr />
                             <p class="text-justify"> Oluwaseun Onaopemipo, is a student, born on the 20th of June from Lagos</p>
                         </div>
-                        
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
+                            <div class="img-box">
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Miss.jpeg" />
+                                <ul class="text-center">
+                                    <a href="#">
+                                        <li><i className="bx bxl-facebook"></i></li>
+                                    </a>
+                                    <a href="#">
+                                        <li><i className="bx bxl-twitter"></i></li>
+                                    </a>
+                                    <a href="#">
+                                        <li><i className="bx bxl-linkedin"></i></li>
+                                    </a>
+                                </ul>
+                            </div>
+                            <h1> Olafisu Olayinka</h1>
+                            <h2><b>Member</b></h2>
+                            <hr />
+                            <p class="text-justify"> Olafisu Olayinka, born on the 28th of April an indigene of Ondo State</p>
+                        </div>
                     </div>
                     
                 </div>

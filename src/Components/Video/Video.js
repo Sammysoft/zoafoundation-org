@@ -52,13 +52,13 @@ export default function Video() {
     </div>
 
     <div className="col-lg-6 pt-3 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-        <h3>ZOA Foundation 2020/2021 2nd Outreach </h3>
+        <h3>ZOA Foundation May 2021, 2nd Outreach </h3>
         <p className="font-italic">
         Alasagba community high school ibuji & St Matthias Anglican primary school
         </p>
         <ul>
         <li><i className="bx bx-check-double"></i> Donated 800 notebooks</li>
-        <li><i className="bx bx-check-double"></i> Donated 200 bags</li>
+        <li><i className="bx bx-check-double"></i> Donated 200 nose masks</li>
         {/* <li><i className="bx bx-check-double"></i> Donated a carton of noodles</li>
         <li><i className="bx bx-check-double"></i> Donated Rechargeable Lamps</li>
         <li><i className="bx bx-check-double"></i> Donated numerous tins of Powdered milk</li> */}
