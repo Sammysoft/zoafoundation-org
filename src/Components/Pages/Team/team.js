@@ -135,6 +135,26 @@ function Profile(props) {
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
+                                <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Adeola.jpeg" />
+                                <ul class="text-center">
+                                    <a href="#">
+                                        <li><i className="bx bxl-facebook"></i></li>
+                                    </a>
+                                    <a href="#">
+                                        <li><i className="bx bxl-twitter"></i></li>
+                                    </a>
+                                    <a href="#">
+                                        <li><i className="bx bxl-linkedin"></i></li>
+                                    </a>
+                                </ul>
+                            </div>
+                            <h1>Abolade Adeola</h1>
+                            <h2><b>Pioneer Member</b></h2>
+                            <hr />
+                            <p class="text-justify">Abolade Adeola hails from Ibadan, born on the 15th of April</p>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
+                            <div class="img-box">
                                 <img class="img-responsive" alt="Responsive Team Profiles" src="assets/img/team/Samuel.jpeg" />
                                 <ul class="text-center">
                                     <a href="#">
@@ -208,10 +228,10 @@ function Profile(props) {
                                     </a>
                                 </ul>
                             </div>
-                            <h1>Miss Oluwatomisin</h1>
+                            <h1>Gbolagade Tomiwa Racheal</h1>
                             <h2><b>Member</b></h2>
                             <hr />
-                            <p class="text-justify">Miss Oluwatomisin, is a student born on the 26th of May from Osun State</p>
+                            <p class="text-justify">MGolagade Tomiwa Racheal, is a student born on the 26th of May from Osun State</p>
                         </div>
                         <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 team">
                             <div class="img-box">
